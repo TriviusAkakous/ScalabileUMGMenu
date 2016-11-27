@@ -1,0 +1,10 @@
+.svn/
+.vs/
+Intermediate/
+Saved/
+Config/
+Build/
+Binaries/
+Changelog.txt
+ScalabileUMGMenu.sln
+ScalabileUMGMenu.VC.db
